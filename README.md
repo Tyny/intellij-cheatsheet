@@ -8,6 +8,7 @@
 ### Editor
 - Next Ocurrence: `alt + j`
 - Duplicate Lines: `ctrl + d`
+- Select word: `ctrl + w`
 
 
 ### Refactor
