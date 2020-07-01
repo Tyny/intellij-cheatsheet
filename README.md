@@ -2,7 +2,7 @@
 
 ### Tabs
 - Close tab: `ctrl + f4`
-- Change tab: alt + left/right
+- Change tab: `alt + left/right arrows`
 - Reopen closed tab: `ctrl + shift + s` (Custom)
 
 
