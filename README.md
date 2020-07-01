@@ -7,7 +7,7 @@
 
 
 ### Refactor
-- Refactor: `shift + f6`
+- Rename: `shift + f6`
 - Extract to: `ctrl + alt + m/v/c/p` [Method, Variable, Constant, Parameter]
 - Optimize imports: `ctrl + alt + o`
 
