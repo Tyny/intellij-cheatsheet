@@ -13,6 +13,7 @@
 
 ### Refactor
 - Rename: `shift + f6`
+- Change method signature: `ctrl + f6`
 - Extract to [Method, Variable, Constant, Parameter]: `ctrl + alt + [m, v, c, p]`
 - Optimize imports: `ctrl + alt + o`
 
