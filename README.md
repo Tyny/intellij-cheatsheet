@@ -5,6 +5,10 @@
 - Change tab: `alt + [left, right] arrows`
 - Reopen closed tab: `ctrl + shift + s` (Custom - https://www.jetbrains.com/help/idea/configuring-keyboard-and-mouse-shortcuts.html)
 
+### Editor
+- Next Ocurrence: `alt + j`
+- Duplicate Lines: `ctrl + d`
+
 
 ### Refactor
 - Rename: `shift + f6`
