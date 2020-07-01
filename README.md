@@ -2,13 +2,13 @@
 
 ### Tabs
 - Close tab: `ctrl + f4`
-- Change tab: `alt + left/right arrows`
+- Change tab: `alt + [left, right] arrows`
 - Reopen closed tab: `ctrl + shift + s` (Custom - https://www.jetbrains.com/help/idea/configuring-keyboard-and-mouse-shortcuts.html)
 
 
 ### Refactor
 - Rename: `shift + f6`
-- Extract to [Method, Variable, Constant, Parameter]: `ctrl + alt + m/v/c/p`
+- Extract to [Method, Variable, Constant, Parameter]: `ctrl + alt + [m, v, c, p]`
 - Optimize imports: `ctrl + alt + o`
 
 ### Inspect
