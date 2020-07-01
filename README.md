@@ -7,8 +7,8 @@
 
 
 ### Refactor
-- Refactor: shift + f6
-- Extract to: `ctrl + alt + [Method, Variable, Constant, Parameter]`
+- Refactor: `shift + f6`
+- Extract to: `ctrl + alt + [<ins>M</ins>ethod, Variable, Constant, Parameter]`
 - Optimize imports: `ctrl + alt + o`
 
 ### Inspect
