@@ -28,6 +28,7 @@
 ### Runners
 
 - Run Test: `ctrl + shift + f10`
+- Run last session: `ctrl + f5`
 - Run anything: `ctrl ctrl`
 
 ### Views
