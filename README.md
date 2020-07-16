@@ -10,6 +10,7 @@
 - Duplicate Lines: `ctrl + d`
 - Select word: `ctrl + w`
 - Align code: `ctrl + alt + l`
+- To Paste History: `ctrl + shift + v`
 
 
 ### Refactor
