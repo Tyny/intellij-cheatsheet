@@ -23,6 +23,7 @@
 - Open class: `ctrl + n`
 - Quick definition: `ctrl + shift + i`
 - Search everywhere: `shift shift`
+- Collapse All: `ctrl + shift + -`
 - Show usages: `ctrl + click`
   - Write usages: `ctrl + w`
   - Read usages : `ctrl + r`
