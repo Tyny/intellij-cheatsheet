@@ -14,6 +14,7 @@
 - To Paste History: `ctrl + shift + v`
 - Diff: `f7`
 - Autocomplate with context: `ctrl + space`
+- Contextual actions: `alt + enter`
 
 
 ### Refactor
