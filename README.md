@@ -15,6 +15,7 @@
 - Diff: `f7`
 - Autocomplate with context: `ctrl + space`
 - Contextual actions: `alt + enter`
+- IDE Actions: `ctrl + shift + a`
 
 
 ### Refactor
