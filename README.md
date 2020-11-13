@@ -27,7 +27,7 @@
 ### Inspect
 - Open class: `ctrl + n`
 - Quick definition: `ctrl + shift + i`
-- Search everywhere: `shift shift`
+- Search everywhere: `shift shift` => `shift shift` again to include non project files
 - Collapse All: `ctrl + shift + -`
 - Show usages: `ctrl + click`
   - Write usages: `ctrl + w`
