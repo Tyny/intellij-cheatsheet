@@ -12,6 +12,7 @@
 - Select word: `ctrl + w`
 - Align code: `ctrl + alt + l`
 - To Paste History: `ctrl + shift + v`
+- Diff: `f7`
 
 
 ### Refactor
