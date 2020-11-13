@@ -6,7 +6,7 @@
 - Reopen closed tab: `ctrl + shift + s` (Custom - https://www.jetbrains.com/help/idea/configuring-keyboard-and-mouse-shortcuts.html)
 
 ### Editor
-- Show Errors: F2
+- Show Errors: `F2`
 - Next Ocurrence: `alt + j`
 - Duplicate Lines: `ctrl + d`
 - Select word: `ctrl + w`
